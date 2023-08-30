@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS PhD. student @ <a href='https://www.txst.edu/'>TXST</a> | ex-Amazonian | <a href='https://www.utdallas.edu/'>UTD</a> Graduates # Address. Contacts. Moto. Etc.
+subtitle: CS Ph.D. student @ <a href='https://www.txst.edu/'>TXST</a> | ex-Amazonian | <a href='https://www.utdallas.edu/'>UTD</a> Graduates # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
